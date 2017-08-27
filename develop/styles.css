@@ -308,6 +308,7 @@ li {
 /* Tables
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 table {
+  border: 1px solid #E1E1E1 ;
   border-collapse: collapse;
 }
 th,
@@ -315,7 +316,7 @@ td {
   padding: 12px 15px;
   text-align: left;
   border-bottom: 1px solid #E1E1E1; 
-  border-left: 1px solid #E1E1E1;}
+}
 th:first-child,
 td:first-child {
   padding-left: 0; }

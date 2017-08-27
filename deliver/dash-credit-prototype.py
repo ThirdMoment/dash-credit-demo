@@ -6,7 +6,7 @@ import plotly.graph_objs as go
 
 app = dash.Dash()
 
-app.css.append_css({"external_url": "https://codepen.io/chriddyp/pen/bWLwgP.css"})
+app.css.append_css({"external_url": "https://rawgit.com/ThirdMoment/dash-credit-demo/master/develop/styles.css"})
 
 
 
